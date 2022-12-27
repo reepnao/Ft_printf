@@ -8,4 +8,4 @@ I'm coding ft_printf because putnbr and putsr are not enough
 	This project consists of coding a library that contains a simplified version (more
 	information below) of the printf function.
 
-For more detailed information, look at the [**subject of this project**]().
+For more detailed information, look at the [**subject of this project**](https://github.com/recepbattal/Ft_printf/blob/main/ft_printf.en.pdf).
