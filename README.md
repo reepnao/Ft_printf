@@ -1,5 +1,5 @@
 # Ft_printf
-I'm coding ft_printf because putnbr and putsr are not enough
+I'm writing ft_printf functions because putnbr and putsr are not enough
 
 ## 💡 About the project
 
